@@ -30,23 +30,23 @@ We use https://replit.com/ to run our codes online.
 
 1. Open this website: https://replit.com/ and **Start creating**.
 
-   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001639915.png)
+   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001639915.png)
 
 2. Login or Create an account:
 
-   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001732436.png)
+   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001732436.png)
 
 3. Create a new project (the blue button on the left upper corner):
 
-   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001823876.png)
+   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001823876.png)
 
 4. Select `Python`:
 
-   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001908263.png)
+   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001908263.png)
 
 5. Upload our project `.py` documents:
 
-   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002030154.png)
+   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002030154.png)
 
 6. Upload the `main.py`, `bfgs_with_trust_region.py`, `TargetFunction.py`, `test_bfgs_with_trust_region.py`:
 
@@ -54,11 +54,11 @@ We use https://replit.com/ to run our codes online.
 
    - Run the `main.py` by **Run** (the green button), and we could see that two tests are passed:
 
-     ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002444385.png)
+     ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002444385.png)
 
    - Select the **Shell** and run script `python bfgs_with_trust_region.py`
 
-   - ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002846106.png)
+   - ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201002846106.png)
 
 #### 3.2 Run codes in local environment
 
