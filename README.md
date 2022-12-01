@@ -30,7 +30,7 @@ We use https://replit.com/ to run our codes online.
 
 1. Open this website: https://replit.com/ and **Start creating**.
 
-   ![Image text](https://raw.github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/tree/main/README.assets/image-20221201001639915.png)
+   ![Image text](https://github.com/biluodrc/520-TeamProject-BFGSwithTrustRegion/blob/main/README.assets/image-20221201001639915.png)
 
 2. Login or Create an account:
 
